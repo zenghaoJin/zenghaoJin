@@ -8,7 +8,7 @@
 I bridge academic research and engineering, building intelligent systems from graph anomaly detection to multimodal robotics.<br/>
 我连接学术研究与工程落地，从图异常检测到多模态机器人，构建可部署的智能系统。
 
-[Email](mailto:534705568@qq.com) · [WeChat](https://weixin.qq.com) · Guangxi University
+[Email](mailto:534705568@qq.com) · Guangxi University
 
 </div>
 
