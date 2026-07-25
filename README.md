@@ -39,7 +39,6 @@ I bridge academic research and engineering, building intelligent systems from gr
 
 - **全国大学生数学建模竞赛** — 全国一等奖 (2018)
 - **"华为杯"中国研究生数学建模竞赛** — 全国二等奖 (2023)
-- **广西大学优秀毕业生** (2026)
 
 ---
 
